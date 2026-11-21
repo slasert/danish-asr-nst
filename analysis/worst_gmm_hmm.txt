@@ -1,0 +1,60 @@
+=== dk22x415-12072000-1030_u0026010-1 (28 word errors)
+sentence 1
+REF: dan havde lavet  en flot tegning af     en sol        og        en måne          med hat  og tre øjne som blev hængt op i skolen så alle kunne se den
+HYP: den halær   den fat  væn      an så ornånd   m hatogtræg orindtobe  han opiskundsale ken sin *** **** *** **** ***** ** * ****** ** **** ***** ** ***
+       S     S     S   S    S       S  S      S   S         S         S    S            S   S   S   D    D   D    D     D  D D      D  D    D     D  D   D
+
+=== dk12xx83-03082000-1347_u0098010-1 (27 word errors)
+sentence 1
+REF: dan  havde lavet      en flot tegning af en sol og en måne med hat    og     tre øjne             som blev hængt op i skolen så alle kunne se den
+HYP: dat hvæven  fogt angensu omun ******* ** ** *** ** ** **** *** hat atrig ornesom blin opiskunsalkusig **** ***** ** * ****** ** **** ***** ** ***
+       S      S     S       S    S       D  D  D   D  D  D    D   D         S       S    S               S    D     D  D D      D  D    D     D  D   D
+
+=== dk13x592-11082000-1516_u0579010-1 (27 word errors)
+sentence 1
+REF: dan havde  lavet      en    flot tegning af en sol og en måne med hat      og    tre øjne       som   blev  hængt op i skolen så alle kunne se den
+HYP:   d    an halære fatanin ansolog  månene ** ** *** ** ** **** *** hat atrærne somple  ind omeskunse alikun sigend ** * ****** ** **** ***** ** ***
+       S     S      S       S       S       S  D  D   D  D  D    D   D           S      S    S         S      S      S  D D      D  D    D     D  D   D
+
+=== dk14x591-11082000-1248_u0578019-1 (27 word errors)
+sentence 1
+REF: ** ** ***** ********* *** det bemærkelsesværdige skifte skyldes   at en forventet lovændring vil medføre      at statsejede aktieselskaber skal drives efter samme retningslinier som ********* *** børsnoterede aktieselskaber
+HYP: de be mærns sværtiski fte   f               skys   atin   fovæn belå an      bræn       vind før astasar sciskat         or   heskandrivse   ft  samer  inst  iger              d som bøsetidar sce          ske             or
+      I  I     I         I   I   S                  S      S       S    S  S         S          S   S       S       S          S              S    S      S     S     S              S             I   I            S              S
+
+=== dk13x195-08082000-1050_u0205010-1 (26 word errors)
+sentence 1
+REF: dan havde lavet en flot tegning  af en sol og en måne med hat     og tre øjne som  blev       hængt     op i skolen så alle kunne se den
+HYP: kan hølør   før  t anen   anson mån me *** ** ** **** *** hat ogtrøn   e **** som vælan opeskunsøle kunsin * ****** ** **** ***** ** ***
+       S     S     S  S    S       S   S  S   D  D  D    D   D          S   S    D         S           S      S D      D  D    D     D  D   D
+
+=== dk14x591-11082000-1248_u0578010-1 (26 word errors)
+sentence 1
+REF: dan      havde lavet     en  flot tegning af en sol og en måne med hat           og tre øjne  som blev      hængt  op       i skolen så alle kunne se den
+HYP: dan hadlævetin   for ptanig ansog    oren må me mag ** ** **** *** hat ogtrælojened san   be hang   ar biskudense ale kusigen ****** ** **** ***** ** ***
+                  S     S      S     S       S  S  S   S  D  D    D   D                S   S    S    S    S          S   S       S      D  D    D     D  D   D
+
+=== dk14xx68-24072000-1018_u0073010-1 (26 word errors)
+sentence 1
+REF: dan havde lavet              en    flot tegning af en sol og en måne med hat og tre øjne som    blev   hængt        op i skolen så alle kunne se den
+HYP: dan  aløn   fat anigensomomulat atræven ******* ** ** *** ** ** **** *** *** ** *** **** som betinde piskome salikesig * ****** ** **** ***** ** ***
+             S     S               S       S       D  D  D   D  D  D    D   D   D  D   D    D           S       S         S D      D  D    D     D  D   D
+
+=== dk14xx68-24072000-1018_u0073019-1 (26 word errors)
+sentence 1
+REF: computere telefoner          og             faxmaskiner samt      tv apparater   cd spillere  og videobåndoptagere                    er synlige udtryk for den elektroniske informationsindustri men disse apparater udgør kun toppen af isbjerget
+HYP:     hakur        se fomafatisin santivævamesiliogspælør   it bomatær synivutre bøme     vetr use                 m fomesusindesisetisopå      ar   ubør   k   t     oplisker                    d *** ***** ********* ***** *** ****** ** *********
+             S         S           S                       S    S       S         S    S        S   S                 S                     S       S      S   S   S            S                    S   D     D         D     D   D      D  D         D
+
+=== dk12xx83-03082000-1347_u0098037-1 (25 word errors)
+sentence 1
+REF:  her             var   en arkitekt     som  var                      i        stand            til      at forene konstruktivt pionerarbejde akustisk perfektion og en total visuel harmoni i en og samme tankegang
+HYP: djor jetiksomejstate frin      kor stogtiv beng abjdehakustiskebafikon orntutælysør homunidinsamet agerhat ****** ************ ************* ******** ********** ** ** ***** ****** ******* * ** ** ***** *********
+        S               S    S        S       S    S                      S            S              S       S      D            D             D        D          D  D  D     D      D       D D  D  D     D         D
+
+=== dk13x195-08082000-1050_u0205074-1 (25 word errors)
+sentence 1
+REF: mor efterlod        et testamente hvori   der    stod          at               min storebror skulle  arve   mest muligt mens jeg kun skulle have det der var nødvendigt efter loven
+HYP: mer    atenå atesemane         hå   ige skove meskopå skularømist muletmansakonskel      høde     on vænet afomån ****** **** *** *** ****** **** *** *** *** ********** ***** *****
+       S        S         S          S     S     S       S           S                 S         S      S     S      S      D    D   D   D      D    D   D   D   D          D     D     D
+

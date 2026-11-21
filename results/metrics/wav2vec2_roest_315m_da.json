@@ -1,0 +1,98 @@
+{
+  "dev": {
+    "system": "wav2vec2_roest_315m_da",
+    "split": "dev",
+    "model_id": "CoRal-project/roest-v3-wav2vec2-315m",
+    "revision": "beb3e790246d6b9dec1df596b0b21d5c42f4d99c",
+    "family": "B5 SSL + CTC (wav2vec 2.0 XLS-R 300M, fine-tuned on CoRal-v3 Danish by its authors)",
+    "decoding": "greedy CTC (argmax), no language model",
+    "language": "da (model is da-only)",
+    "precision": "fp16",
+    "batch_size": 4,
+    "compute_seconds": 36.56,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 1267.7,
+    "normalized": {
+      "wer": 0.10927484747856978,
+      "mer": 0.10823835385909891,
+      "wil": 0.18511559203353434,
+      "cer": 0.02895433045616098,
+      "sub": 1098,
+      "del": 193,
+      "ins": 124,
+      "hits": 11658,
+      "n_ref_words": 12949,
+      "char_sub": 680,
+      "char_del": 861,
+      "char_ins": 626,
+      "n_ref_chars": 74842,
+      "n_utts": 933
+    },
+    "orthographic": {
+      "wer": 0.292336217552534,
+      "cer": 0.06753986183841101,
+      "sub": 3495,
+      "del": 197,
+      "ins": 92,
+      "n_ref_words": 12944
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.10927484747856978,
+      "cer": 0.02895433045616098,
+      "n_utts": 933
+    },
+    "audio_seconds": 5685.072,
+    "rtfx": 155.5,
+    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+  },
+  "test": {
+    "system": "wav2vec2_roest_315m_da",
+    "split": "test",
+    "model_id": "CoRal-project/roest-v3-wav2vec2-315m",
+    "revision": "beb3e790246d6b9dec1df596b0b21d5c42f4d99c",
+    "family": "B5 SSL + CTC (wav2vec 2.0 XLS-R 300M, fine-tuned on CoRal-v3 Danish by its authors)",
+    "decoding": "greedy CTC (argmax), no language model",
+    "language": "da (model is da-only)",
+    "precision": "fp16",
+    "batch_size": 4,
+    "compute_seconds": 50.17,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 1360.3,
+    "normalized": {
+      "wer": 0.13995040840140024,
+      "mer": 0.13867610926434457,
+      "wil": 0.23471301900023667,
+      "cer": 0.03964081796916266,
+      "sub": 1493,
+      "del": 300,
+      "ins": 126,
+      "hits": 11919,
+      "n_ref_words": 13712,
+      "char_sub": 959,
+      "char_del": 1400,
+      "char_ins": 793,
+      "n_ref_chars": 79514,
+      "n_utts": 975
+    },
+    "orthographic": {
+      "wer": 0.32081114596250637,
+      "cer": 0.07938478939732967,
+      "sub": 3957,
+      "del": 326,
+      "ins": 115,
+      "n_ref_words": 13709
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.13995040840140024,
+      "cer": 0.03964081796916266,
+      "n_utts": 975
+    },
+    "audio_seconds": 5962.6,
+    "rtfx": 118.85,
+    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+  }
+}

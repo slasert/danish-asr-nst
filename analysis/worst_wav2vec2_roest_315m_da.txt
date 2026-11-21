@@ -1,0 +1,60 @@
+=== dk14xx68-24072000-1018_u0073029-1 (15 word errors)
+sentence 1
+REF: for anpartsselskaberne steg kravet fra       tredive tusind til       firs tusind kroner mens aktieselskaberne ** måtte udvide kapitalen fra       et hundrede tusind til               tre hundrede tusind kroner
+HYP: for anperlsselskaberne steg kravet fra tredivetusind ****** til firstusind  koner    med  til aktieselskaberne må   dog udvide kapitalen fra titusind ******** ****** til trehundredetusind ******** ****** kroner
+                          S                             S      D              S      S      S    S                   I     S                             S        D      D                     S        D      D       
+
+=== dk12xx83-03082000-1347_u0098032-1 (9 word errors)
+sentence 1
+REF:     og der var udbredt skuffelse over at vestorienteringen ikke førte til vestlig økonomisk støtte og investeringer  i det omfang    mange havde troet
+HYP: darver *** *** udbredt skuffelse over at   vestorientering ikke førte til vestlig økonomisk støtte og   investering af det omfang mangehed  trod *****
+          S   D   D                                           S                                                        S  S                   S     S     D
+
+=== dk12xx83-03082000-1347_u0098121-1 (9 word errors)
+sentence 1
+REF: penge har han   ingen af så der er en anden som   køber den for     næsen af ham
+HYP: penge har  en enginag så  r der er en anden som køberne *** for næsenaren ** ***
+                 S       S  S  S                           S   D             S  D   D
+
+=== dk12xx83-03082000-1347_u0098158-1 (9 word errors)
+sentence 1
+REF: årskontingentet varierer mellem         et hundrede og tredive kroner og         tre hundrede   kroner afhængigt af hvilken partiforening man er medlem af
+HYP:  årskontinentet varierer mellem ethundrede ******** og tredive   krer og trehundrede    krner afhængig ********* af hvilken partiforening man ar medlem af
+                   S                          S        D                 S              S        S        S         D                               S          
+
+=== dk12xx83-03082000-1347_u0098196-1 (9 word errors)
+sentence 1
+REF:   jeg    må erkende at jeg ikke har noget **** dybtgående forhold til den unge kunst som er blevet skabt her i de sidste ti år
+HYP: jamay kenne      er ** *** ikke har noget dybt     gående forhold til den unge kunst som  r   blev skabt her i de sidste ti år
+         S     S       S  D   D                   I          S                                 S      S                            
+
+=== dk13x195-08082000-1050_u0205102-1 (9 word errors)
+sentence 1
+REF: af det procedurehysteri som blev beskrevet ovenfor    må det bedste  råd til disse tusindvis af ejere hvor vanvittigt      det     end lyder lyde sådan
+HYP: af det  procedurhysteri som blev beskrevet ovenfor måtte *** bedste råde til disse tusindvis af ejere hvor vanvittigt denlyder lydeson ***** **** *****
+                           S                                S   D           S                                                     S       S     D    D     D
+
+=== dk12xx83-03082000-1347_u0098012-1 (8 word errors)
+sentence 1
+REF: gaden er lukket for ** gennemgående færdsel ti måneder om året men man kan køre **** udenom hvis man drejer til  højre      i krydset
+HYP: gaden er lukket for at gennemgående færdsel ti måneder om året sor man kan køre uden     om hvis son drejer til højere krydse *******
+                          I                                           S                 I      S        S                 S      S       D
+
+=== dk12xx83-03082000-1347_u0098028-1 (8 word errors)
+sentence 1
+REF: boligerne er opført som hyggelige træhuse mange med alle moderne bekvemmeligheder når der ********  lige ses   bort fra toiletforholdene
+HYP:   poliern er opført som hyggelige træhuse mange med alle moderne bekvæmmeligheder når der ligesses sport for tøilet for          holdene
+             S                                                                       S                I     S   S      S   S                S
+
+=== dk13x195-08082000-1050_u0205023-1 (8 word errors)
+sentence 1
+REF: en  ny type ***** superstærk belægning vil nu lette tilværelsen for de tusinder af danskere     der bærer proteser og gebisser baseret på metallisk materiale
+HYP: en nye type super     stærkt belægning vil nu  ette tilværelsen for de tusinder af danskere darpere ***** proteser og  gebiser  basere på metallisk materiale
+          S          I          S                      S                                               S     D                    S       S                       
+
+=== dk14xx68-24072000-1018_u0073019-1 (8 word errors)
+sentence 1
+REF: computere telefoner og  faxmaskiner samt tv apparater cd  spillere og videobåndoptagere er synlige udtryk for den elektroniske informationsindustri men disse apparater udgør       kun toppen af isbjerget **
+HYP: computere telefoner og faksmaskiner samt tv apparater cd afspiller og  videobornoptager ** synlige udtryk for den elektroniske informationsindustri som disse apparater udgør kuntoppen ****** af isbjerget af
+                                       S                              S                    S  D                                                            S                               S      D               I
+

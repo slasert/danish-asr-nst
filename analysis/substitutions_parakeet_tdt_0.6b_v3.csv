@@ -1,0 +1,21 @@
+ref,hyp,count,type
+det,de,8,other
+de,det,7,other
+såsom,som,6,other
+kroner,kr,6,other
+et,ethundrede,6,other
+selv,selvom,6,"inflection (same stem, different ending)"
+en,et,5,other
+beskadiget,beskadet,5,"inflection (same stem, different ending)"
+per,pær,5,other
+er,af,5,other
+tusind,nul,5,other
+adskillige,adskellige,4,other
+dunkene,dunkerne,4,"inflection (same stem, different ending)"
+dernede,nede,4,other
+vil,ville,4,other
+simpelt,simpelthen,4,"inflection (same stem, different ending)"
+ville,vil,4,other
+fra,for,4,other
+anden,den,3,other
+hjørring,jørg,3,other

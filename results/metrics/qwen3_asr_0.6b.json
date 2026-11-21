@@ -1,0 +1,98 @@
+{
+  "dev": {
+    "system": "qwen3_asr_0.6b",
+    "split": "dev",
+    "model_id": "Qwen/Qwen3-ASR-0.6B",
+    "revision": "5eb144179a02acc5e5ba31e748d22b0cf3e303b0",
+    "family": "B10 pretrained audio-LLM ASR (Qwen3-ASR)",
+    "decoding": "model-card default (transformers backend, greedy)",
+    "language": "language='Danish'",
+    "precision": "bf16",
+    "batch_size": 8,
+    "compute_seconds": 394.58,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 2266.6,
+    "normalized": {
+      "wer": 0.27492470461039464,
+      "mer": 0.26730740351404114,
+      "wil": 0.431822539690348,
+      "cer": 0.10339114401004783,
+      "sub": 2815,
+      "del": 376,
+      "ins": 369,
+      "hits": 9758,
+      "n_ref_words": 12949,
+      "char_sub": 3398,
+      "char_del": 2481,
+      "char_ins": 1859,
+      "n_ref_chars": 74842,
+      "n_utts": 933
+    },
+    "orthographic": {
+      "wer": 0.29357231149567364,
+      "cer": 0.10748658213301644,
+      "sub": 3058,
+      "del": 378,
+      "ins": 364,
+      "n_ref_words": 12944
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.27492470461039464,
+      "cer": 0.10339114401004783,
+      "n_utts": 933
+    },
+    "audio_seconds": 5685.072,
+    "rtfx": 14.41,
+    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+  },
+  "test": {
+    "system": "qwen3_asr_0.6b",
+    "split": "test",
+    "model_id": "Qwen/Qwen3-ASR-0.6B",
+    "revision": "5eb144179a02acc5e5ba31e748d22b0cf3e303b0",
+    "family": "B10 pretrained audio-LLM ASR (Qwen3-ASR)",
+    "decoding": "model-card default (transformers backend, greedy)",
+    "language": "language='Danish'",
+    "precision": "bf16",
+    "batch_size": 8,
+    "compute_seconds": 423.47,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 2339.1,
+    "normalized": {
+      "wer": 0.3112602100350058,
+      "mer": 0.3026950354609929,
+      "wil": 0.4799041202551342,
+      "cer": 0.12304751364539578,
+      "sub": 3335,
+      "del": 545,
+      "ins": 388,
+      "hits": 9832,
+      "n_ref_words": 13712,
+      "char_sub": 4351,
+      "char_del": 3380,
+      "char_ins": 2053,
+      "n_ref_chars": 79514,
+      "n_utts": 975
+    },
+    "orthographic": {
+      "wer": 0.33576482602669777,
+      "cer": 0.12803363741424673,
+      "sub": 3680,
+      "del": 544,
+      "ins": 379,
+      "n_ref_words": 13709
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.3112602100350058,
+      "cer": 0.12304751364539578,
+      "n_utts": 975
+    },
+    "audio_seconds": 5962.6,
+    "rtfx": 14.08,
+    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+  }
+}

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+# model weights and training checkpoints are never committed
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.bin
+# local working dirs (large, regenerable)
+exp/
+work/
+.venv/
+env/
+# raw NST WAVs (~5 GB) are rebuilt by scripts/01_download.py; checksums and metadata are committed
+data/raw/audio/

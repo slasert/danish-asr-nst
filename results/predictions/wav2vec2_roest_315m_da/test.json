@@ -1,0 +1,14 @@
+{
+  "model_id": "CoRal-project/roest-v3-wav2vec2-315m",
+  "revision": "beb3e790246d6b9dec1df596b0b21d5c42f4d99c",
+  "family": "B5 SSL + CTC (wav2vec 2.0 XLS-R 300M, fine-tuned on CoRal-v3 Danish by its authors)",
+  "decoding": "greedy CTC (argmax), no language model",
+  "language": "da (model is da-only)",
+  "precision": "fp16",
+  "batch_size": 4,
+  "compute_seconds": 50.17,
+  "seed": 1234,
+  "trained_by_us": false,
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+  "peak_gpu_mb": 1360.3
+}

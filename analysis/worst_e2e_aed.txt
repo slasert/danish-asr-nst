@@ -1,0 +1,60 @@
+=== dk12xx83-03082000-1347_u0098010-1 (28 word errors)
+sentence 1
+REF: dan havde lavet en flot tegning af  en sol          og  en måne med hat  og tre øjne         som blev hængt          op   i skolen så alle kunne se den
+HYP: det    er noget at  der     for at for  at forskellige for  der  er for det for   at forskellige  for    at forskellige for ****** ** **** ***** ** ***
+       S     S     S  S    S       S  S   S   S           S   S    S   S   S   S   S    S           S    S     S           S   S      D  D    D     D  D   D
+
+=== dk13x195-08082000-1050_u0205010-1 (28 word errors)
+sentence 1
+REF: dan havde lavet  en flot tegning  af en sol og en måne med   hat  og tre øjne som blev           hængt op i skolen så alle kunne se den
+HYP: det    er  ikke med   at    være for at for at få  det  er store for  at  for  at  det forskelligheden ** * ****** ** **** ***** ** ***
+       S     S     S   S    S       S   S  S   S  S  S    S   S     S   S   S    S   S    S               S  D D      D  D    D     D  D   D
+
+=== dk13x195-08082000-1050_u0205149-1 (28 word errors)
+sentence 1
+REF: ***  i parentes bemærket synes jeg    i øvrigt at *** ***** *** ** *** småbørnsfamilier  har langt mindre reelle problemer end pubertetsfamilier  hvis det ord   i øvrigt overhovedet findes
+HYP: det er       en    store   for  at være    for at det store med at for               at være    og    det     er       der  er               der store for  at for     at         for   alle
+       I  S        S        S     S   S    S      S      I     I   I  I   I                S    S     S      S      S         S   S                 S     S   S   S   S      S           S      S
+
+=== dk13x592-11082000-1516_u0579010-1 (28 word errors)
+sentence 1
+REF: dan havde lavet    en flot tegning af en sol          og  en måne med hat og         tre øjne som blev hængt          op   i skolen så alle kunne se den
+HYP: det    er  ikke været   at     for at få det forskellige for  der  er for at forskellige  for  at  for    at forskellige for    for ** **** ***** ** ***
+       S     S     S     S    S       S  S  S   S           S   S    S   S   S  S           S    S   S    S     S           S   S      S  D    D     D  D   D
+
+=== dk13x592-11082000-1516_u0579029-1 (28 word errors)
+sentence 1
+REF: der er ***** *** ** *** ** *** ** *** ** *** *** ** tørvehuse skurvogne indianske tipier  og solide hjemmebyggede træboliger rundt omkring på  de tyve hektar land
+HYP: det er noget for at for at det er for at for det er       der        er       det    for det     er           det         er   der     for at det være   ikke  for
+       S        I   I  I   I  I   I  I   I  I   I   I  I         S         S         S      S   S      S             S          S     S       S  S   S    S      S    S
+
+=== dk14x591-11082000-1248_u0578010-1 (28 word errors)
+sentence 1
+REF: dan havde lavet en flot tegning  af en sol   og    en måne med hat og  tre øjne som blev hængt   op   i skolen så alle kunne se den
+HYP: det    er  ikke at  det    være for at det være store  for  at for at være  for  at  for   den skal for    det ** **** ***** ** ***
+       S     S     S  S    S       S   S  S   S    S     S    S   S   S  S    S    S   S    S     S    S   S      S  D    D     D  D   D
+
+=== dk14x591-11082000-1248_u0578132-1 (28 word errors)
+sentence 1
+REF: *** **  den selvfølgelige antagelse heraf betyder at **** *** ** *** *** ** ***   vi   er blevet involveret  i   en debat om midler  der  har gjort målet tåget
+HYP: det er ikke           til        at  være     til at være til at det med at det være ikke    til        til at være   med at    det være ikke   til   til    at
+       I  I    S             S         S     S       S       I   I  I   I   I  I   I    S    S      S          S  S    S     S  S      S    S    S     S     S     S
+
+=== dk14xx68-24072000-1018_u0073010-1 (28 word errors)
+sentence 1
+REF: dan havde lavet  en flot tegning          af  en sol   og  en måne med hat og tre øjne som        blev hængt op           i skolen så alle kunne se den
+HYP: det    er  ikke med   at    være forskellige for  at være for   at det for at for   at den forskellige   for at forskellige    til at    f ***** ** ***
+       S     S     S   S    S       S           S   S   S    S   S    S   S   S  S   S    S   S           S     S  S           S      S  S    S     D  D   D
+
+=== dk22x415-12072000-1030_u0026010-1 (28 word errors)
+sentence 1
+REF: dan havde lavet en flot tegning af  en sol  og  en måne med hat og  tre øjne som blev hængt  op  i skolen så alle kunne se den
+HYP: det    er  ikke at være     for at for  at det for  der  er der er stor  for  at  for    at for at   være ** **** ***** ** ***
+       S     S     S  S    S       S  S   S   S   S   S    S   S   S  S    S    S   S    S     S   S  S      S  D    D     D  D   D
+
+=== dk12xx83-03082000-1347_u0098022-1 (27 word errors)
+sentence 1
+REF: *** de gamle læsere fandt hende lovlig      vulgær  og det  nye publikum ænsede hende knap hun var  nu også svær at *** ** *** ****  få øje   på
+HYP: det er  ikke    til   for    at    den forskellige for  at være      der     er   der   er der  er for   at  for at for at det være for for alle
+       I  S     S      S     S     S      S           S   S   S    S        S      S     S    S   S   S   S    S    S      I  I   I    I   S   S    S
+

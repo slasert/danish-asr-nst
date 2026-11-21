@@ -1,0 +1,21 @@
+ref,hyp,count,type
+er,af,19,other
+at,af,12,other
+for,fra,10,other
+i,af,10,other
+de,det,10,other
+fra,for,7,other
+for,forbyen,6,other
+er,at,6,other
+det,der,6,other
+computere,computer,6,"inflection (same stem, different ending)"
+og,at,6,other
+stormvejr,stormvær,5,"inflection (same stem, different ending)"
+ville,vil,5,other
+og,køre,5,other
+kørte,det,5,other
+per,pære,4,other
+og,af,4,other
+åbnede,åbner,4,"inflection (same stem, different ending)"
+nogen,nogle,4,other
+da,er,4,other

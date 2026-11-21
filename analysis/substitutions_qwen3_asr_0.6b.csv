@@ -1,0 +1,21 @@
+ref,hyp,count,type
+de,det,22,other
+af,er,13,other
+det,der,8,other
+er,af,8,other
+den,en,7,other
+havde,har,7,other
+per,peter,6,other
+har,er,6,other
+at,af,6,other
+blodpølse,blodpulser,5,other
+derhjemme,for,5,other
+foran,en,5,other
+uden,under,5,other
+at,og,5,other
+end,en,5,other
+ville,vil,5,other
+at,et,5,other
+fra,for,5,other
+en,den,5,other
+tusinde,tusind,5,"inflection (same stem, different ending)"

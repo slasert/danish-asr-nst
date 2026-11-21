@@ -1,0 +1,98 @@
+{
+  "dev": {
+    "system": "canary_1b_v2",
+    "split": "dev",
+    "model_id": "nvidia/canary-1b-v2",
+    "revision": "d455706339a6b32e1aa40f82c713a482a0c938e2",
+    "family": "B8 pretrained AED (Canary, FastConformer encoder + Transformer decoder)",
+    "decoding": "model-card default (beam search as configured in the .nemo, pnc=yes); timestamps model not loaded (restore_timestamps_model=False)",
+    "language": "source_lang='da', target_lang='da'",
+    "precision": "bf16 weights",
+    "batch_size": 4,
+    "compute_seconds": 192.11,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 2035.3,
+    "normalized": {
+      "wer": 0.07699436249903467,
+      "mer": 0.07621741457075147,
+      "wil": 0.1323549700512756,
+      "cer": 0.02614841933673606,
+      "sub": 781,
+      "del": 84,
+      "ins": 132,
+      "hits": 12084,
+      "n_ref_words": 12949,
+      "char_sub": 684,
+      "char_del": 645,
+      "char_ins": 628,
+      "n_ref_chars": 74842,
+      "n_utts": 933
+    },
+    "orthographic": {
+      "wer": 0.09487021013597033,
+      "cer": 0.03504968854878097,
+      "sub": 1026,
+      "del": 92,
+      "ins": 110,
+      "n_ref_words": 12944
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.07699436249903467,
+      "cer": 0.02614841933673606,
+      "n_utts": 933
+    },
+    "audio_seconds": 5685.072,
+    "rtfx": 29.59,
+    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+  },
+  "test": {
+    "system": "canary_1b_v2",
+    "split": "test",
+    "model_id": "nvidia/canary-1b-v2",
+    "revision": "d455706339a6b32e1aa40f82c713a482a0c938e2",
+    "family": "B8 pretrained AED (Canary, FastConformer encoder + Transformer decoder)",
+    "decoding": "model-card default (beam search as configured in the .nemo, pnc=yes); timestamps model not loaded (restore_timestamps_model=False)",
+    "language": "source_lang='da', target_lang='da'",
+    "precision": "bf16 weights",
+    "batch_size": 4,
+    "compute_seconds": 176.86,
+    "seed": 1234,
+    "trained_by_us": false,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU; torch 2.6.0+cu124; Windows 10",
+    "peak_gpu_mb": 2059.9,
+    "normalized": {
+      "wer": 0.09947491248541424,
+      "mer": 0.0981718727508277,
+      "wil": 0.16728068314416045,
+      "cer": 0.03609427270669316,
+      "sub": 1038,
+      "del": 144,
+      "ins": 182,
+      "hits": 12530,
+      "n_ref_words": 13712,
+      "char_sub": 1003,
+      "char_del": 1027,
+      "char_ins": 840,
+      "n_ref_chars": 79514,
+      "n_utts": 975
+    },
+    "orthographic": {
+      "wer": 0.12305784521117515,
+      "cer": 0.04655880400304901,
+      "sub": 1347,
+      "del": 166,
+      "ins": 174,
+      "n_ref_words": 13709
+    },
+    "normalized_unseen_sentences": {
+      "wer": 0.09947491248541424,
+      "cer": 0.03609427270669316,
+      "n_utts": 975
+    },
+    "audio_seconds": 5962.6,
+    "rtfx": 33.71,
+    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+  }
+}

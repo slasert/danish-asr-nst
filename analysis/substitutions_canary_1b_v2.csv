@@ -1,0 +1,21 @@
+ref,hyp,count,type
+en,et,8,other
+selv,selvom,8,"inflection (same stem, different ending)"
+et,ethundrede,6,other
+den,en,6,other
+kaffe,kaffen,5,"inflection (same stem, different ending)"
+de,det,5,other
+sylte,silte,5,other
+simpelt,simpelthen,5,"inflection (same stem, different ending)"
+suppe,soppe,4,other
+dunkene,den,4,other
+blodpølse,blodpølser,4,"inflection (same stem, different ending)"
+tusind,nul,4,other
+af,er,3,other
+bliver,blev,3,other
+det,der,3,other
+standse,stanse,3,"inflection (same stem, different ending)"
+for,f,3,other
+eksempel,eks,3,other
+denne,den,3,other
+hundrede,nul,3,other

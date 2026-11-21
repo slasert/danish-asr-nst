@@ -1,0 +1,60 @@
+=== dk14xx68-24072000-1018_u0073029-1 (21 word errors)
+sentence 1
+REF: for anpartsselskaberne steg kravet fra tredive *** ***** tusind til firs tusind kroner            mens aktieselskaberne måtte udvide kapitalen fra         et hundrede      tusind til tre hundrede tusind kroner
+HYP: for  anpasselskabernes  det krævet fra tredive nul fyrre    nul  kr  med     et større ekserelskaberne               må   der udvide kapitalen fra ethundrede      nul trehundrede nul  kr ******** ****** ******
+                          S    S      S               I     I      S   S    S      S      S               S                S     S                               S        S           S   S   S        D      D      D
+
+=== dk13x592-11082000-1516_u0579217-1 (17 word errors)
+sentence 1
+REF: aldrig ***  er så ****       få historier blevet fortalt så mange gange som *** ****       da tøsedrengene på **** ** **** krigerkursus spiste morgenmad på ****** trediedagen
+HYP: aldrig har jeg så fået historie        at   bære fortalt så mange gange som der tøse drengene          gik på krig og kose           og spiste    målmad på tredje       dagen
+              I   S       I        S         S      S                              I    I        S            S       I  I    I            S                S         I           S
+
+=== dk14xx68-24072000-1018_u0073018-1 (15 word errors)
+sentence 1
+REF: jeg er overbevist om at ** **** *** der ikke er nogen læger i denne branche som ***     foretager behandlinger de      ikke kan stå inde for siger han
+HYP: jeg er       over på at vi står med der ikke er nogen lærer i denne branche som får tabbehandling           af de kastølten for  at sige *** ***** han
+                     S  S     I    I   I                       S                       I             S            S            S   S   S    S   D     D    
+
+=== dk12xx83-03082000-1347_u0098045-1 (13 word errors)
+sentence 1
+REF: underligt nok begyndte ** spillet først for ** **** alvor  at  fungere da stivheden kom ud **     af kroppen i anden halvleg
+HYP:   unaldig nok begyndte at  spille først for at alle  hvor det fungerer da stivhuden kom ud og kropte     mig i anden halvlej
+             S               I       S            I    I     S   S        S            S         I      S       S               S
+
+=== dk13x195-08082000-1050_u0205074-1 (13 word errors)
+sentence 1
+REF:     mor   efterlod et testamente **** hvori der stod at min storebror skulle arve mest muligt mens jeg kun skulle have *** det der var nødvendigt efter    loven
+HYP: morgere efterlodte et testamente hvor     i der stod af min storebror skulle afve mest muligt  men  så kun skulle have ved  da  da var nødvendigt    af forlogen
+           S          S                  I     S           S                         S                S   S                   I   S   S                    S        S
+
+=== dk13x195-08082000-1050_u0205102-1 (13 word errors)
+sentence 1
+REF: af det procedurehysteri som blev beskrevet ovenfor må det bedste  råd til disse    tusindvis     af          ejere     hvor vanvittigt det end lyder lyde sådan
+HYP: er det  præsidyrhøstori som blev beskrevet ovenfor må det bedste råde til disse tusindvisere regger hvorvanvendigt danløder lødesånden *** *** ***** **** *****
+      S                    S                                             S                      S      S              S        S          S   D   D     D    D     D
+
+=== dk14xx68-24072000-1018_u0073019-1 (13 word errors)
+sentence 1
+REF: computere telefoner og  faxmaskiner samt tv apparater cd  spillere og videobåndoptagere        er synlige udtryk for den elektroniske informationsindustri men disse apparater udgør **   kun toppen  af isbjerget **
+HYP:  computer telefoner og faksmaskiner samt tv apparater cd afspiller og  videobondamterer syngelige ******* udtryk for den elektroniske informationsindustri som disse appareter udgør at kunne    top med isbjerget af
+             S                         S                              S                    S         S       D                                                    S               S        I     S      S   S            I
+
+=== dk14xx68-24072000-1018_u0073174-1 (13 word errors)
+sentence 1
+REF: folks    brug af computere er steget voldsomt det sidste år og    i løbet af få år vil befolkningen under halvtreds være   fortrolige med computere
+HYP:  folk spurger at  computer er stedet voldsomt det sidste år og elet   vil ** få op   i befolkningen under halvtreds hver fortrudelige med  computer
+         S       S  S         S         S                              S     S  D     S   S                                 S            S             S
+
+=== dk12xx83-03082000-1347_u0098158-1 (12 word errors)
+sentence 1
+REF: ** **** årskontingentet varierer mellem         et hundrede og tredive kroner og         tre hundrede kroner afhængigt af hvilken partiforening man  er medlem af
+HYP: og også     kontigentet varieret mellem ethundrede ******** og tredive     kr og trehundrede       kr afhæng ********* af hvilken partiforening man har medlem af
+      I    I               S        S                 S        D                 S              S        S      S         D                                S          
+
+=== dk14xx68-24072000-1018_u0073027-1 (12 word errors)
+sentence 1
+REF: hver tirsdag ***** *** eftermiddag og hver anden *** *** ***** fredag eftermiddag hentede hun ham        fra børnehave og var sammen med ham i nogle timer
+HYP: hver tirsdag efter med         dag og hver anden fri dag efter    med         dag hentede han for børnehaven ********* og var sammen med ham i nogle timer
+                      I   I           S                 I   I     I      S           S           S   S          S         D                                    
+

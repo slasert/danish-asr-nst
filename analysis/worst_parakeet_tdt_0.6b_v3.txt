@@ -1,0 +1,60 @@
+=== dk14xx68-24072000-1018_u0073018-1 (14 word errors)
+sentence 1
+REF: jeg   er overbevist om   at der ikke    er nogen læger i denne branche som foretager ********** behandlinger de ikke kan stå  inde for siger han
+HYP: jeg over         at vi står med   at række nogle læger i denne branche som foretager behandling           at de **** kan stå inden for sygne ***
+            S          S  S    S   S    S     S     S                                              I            S       D             S         S   D
+
+=== dk14xx68-24072000-1018_u0073029-1 (14 word errors)
+sentence 1
+REF: for anpartsselskaberne steg kravet fra tredive tusind til firs tusind kroner mens **************** aktieselskaberne måtte udvide kapitalen fra         et hundrede tusind til         tre hundrede tusind kroner
+HYP: for  anparsselskaberne steg kravet fra tredive    nul til firs    nul     kr mens aktelselskaberne               må   der udvide kapitalen fra ethundrede      nul ****** til trehundrede      nul     kr ******
+                          S                              S               S      S                     I                S     S                               S        S      D               S        S      S      D
+
+=== dk12xx83-03082000-1347_u0098007-1 (11 word errors)
+sentence 1
+REF:    tror du at han kan flytte den store kasse og  dunkene med vand ned i kælderen  uden    at tabe det hele
+HYP: trolang ** ** *** kan flytte den store kasse og dunkerne med vand ned * kælderen under tabel dele *** ****
+           S  D  D   D                                      S              D              S     S    S   D    D
+
+=== dk13x195-08082000-1050_u0205195-1 (11 word errors)
+sentence 1
+REF: de har typisk kun **** ********* **      åbent tolv seksten ** timer om ugen det svarer til        to   tre aftener om ugen og de er billige i drift
+HYP: de  er typisk kun åben ettusinde og tohundrede   og seksten en timer om ugen  de svarer til treogtyve aften ******* om ugen og de er billige i drift
+          S               I         I  I          S    S          I                 S                    S     S       D                                 
+
+=== dk22x415-12072000-1030_u0026020-1 (11 word errors)
+sentence 1
+REF: for bag den charmerende drengede  glade og lidt nærsynede fremtoning sidder et ambitiøst og  skarpsynet karrieremenneske for hvem arbejdet formentlig er den største ********* lidenskab overhovedet
+HYP: for bag den chammerende drengede glæder og lidt   nærynet     fremen    ved et ambitiøst og skarpsynigt    karrieremeske for hvem  arbejde  formidlig er den største ledenskab        og overhovedet
+                           S               S                 S          S      S                           S                S                 S          S                        I         S            
+
+=== dk14x591-11082000-1248_u0578019-1 (10 word errors)
+sentence 1
+REF: det ************** bemærkelsesværdige  skifte skyldes at en forventet lovændring vil medføre at ***** statsejede aktieselskaber skal drives efter samme retningslinier som **** børsnoterede aktieselskaber
+HYP: det bemærkelsesvæd                 de skifter skyldes at en forventet lovændring vil medføre at stats       eget  aktsendskaber skal drives efter samme retningslinjer som bøns     noterede  aktsendskaber
+                      I                  S       S                                                       I          S              S                                      S        I            S              S
+
+=== dk12xx83-03082000-1347_u0098018-1 (9 word errors)
+sentence 1
+REF: kameraerne  overvåger vigtige trafikknudepunkter vejtolden og udsatte strækninger med øget risiko for ** kødannelser nedsat sigtbarhed og glatføre
+HYP:     kamera overgårder vigtige  trafikknudpunkter  vejtoden ** udsatte strækninger med øget risiko for kø  idannelser nedsat  sikkerhed og  glatfør
+              S          S                          S         S  D                                          I           S                 S           S
+
+=== dk13x592-11082000-1516_u0579063-1 (9 word errors)
+sentence 1
+REF: på pavillionen spiller et *** bigband med blå fingre der er artister på plænen og så er der selvfølgelig *********** ****** festfyrværkeri hver aften
+HYP: på  pavillonen spiller et big    band med blå finger der er    tidst på planen og så er der selvfølgelig festførende mærker              i hver aften
+                  S              I       S              S               S         S                                     I      I              S           
+
+=== dk22x415-12072000-1030_u0026024-1 (9 word errors)
+sentence 1
+REF: den indeholder også ** forslag om deltid *** ***** forældreorlov samt uddannelsesorlov men flertallet af de         to hundrede ansøgere beder om at fratræde
+HYP: den indeholder også et forslag om deltid for ældre       overlov samt  uddannelsesorov men    flertal af de tohundrede  ansøger ******** beder om at fratræde
+                          I                     I     I             S                     S              S                S        S        D                     
+
+=== dk22x415-12072000-1030_u0026138-1 (9 word errors)
+sentence 1
+REF: det er således ikke muligt at verificere amerikanernes tidligere oplysninger ****  ud fra de   modtagne kopier af de oprindelige interne amerikanske meddelelser         og lignende
+HYP: det er således ikke muligt at balificere   amerikaners tidligere oplysninger uden for  at de modtagende kopier af de oprindelige interne amerikanske   meddelser oglignende ********
+                                            S             S                          I   S   S             S                                                        S          S        D
+

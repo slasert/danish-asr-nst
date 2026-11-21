@@ -1,0 +1,21 @@
+ref,hyp,count,type
+over,overfor,8,"inflection (same stem, different ending)"
+de,det,7,other
+fra,for,6,other
+går,gård,5,other
+udenom,om,5,other
+et,ethundrede,5,other
+en,et,5,other
+det,der,5,other
+er,af,5,other
+selv,selvom,5,"inflection (same stem, different ending)"
+byggede,bygged,4,"inflection (same stem, different ending)"
+dunkene,dunkende,4,"inflection (same stem, different ending)"
+i,af,4,other
+at,af,4,other
+og,at,4,other
+er,har,4,other
+rigtigt,rigtig,4,"inflection (same stem, different ending)"
+simpelt,simpelthen,4,"inflection (same stem, different ending)"
+af,er,4,other
+jeg,af,4,other

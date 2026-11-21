@@ -1,0 +1,60 @@
+=== dk12xx83-03082000-1347_u0098155-1 (16 word errors)
+sentence 1
+REF: et  eller      andet dunkelt sted er der en knage i    dette skab hvor hendes  valg er  hængt op hendes   stilling     er taget
+HYP:  i landet dumplested ******* **** er der en   knæ i deteskap **** hvor  hende svært og hængte op  hende stillinger tæddet *****
+      S      S          S       D    D               S          S    D           S     S  S      S         S          S      S     D
+
+=== dk14xx68-24072000-1018_u0073018-1 (16 word errors)
+sentence 1
+REF: jeg        er overbevist om at der ikke er nogen læger i denne branche som *** ***  foretager behandlinger  de ikke kan stå  inde for siger han
+HYP: jeg overvejer    stammet af ** *** ikke ** nogen læger i   den branche som får til behandling           af det  der kan stå inden for syren ***
+                 S          S  S  D   D       D                   S               I   I          S            S   S    S             S         S   D
+
+=== dk13x195-08082000-1050_u0205137-1 (15 word errors)
+sentence 1
+REF: lige ****** *** bortset fra  de tre parasoller af  palmeblade som er anbragt på den kridhvide strand er her ingen tegn på ***** civilisation overhovedet
+HYP: lige bordet for      at det træ per     solret på pælmebladet som ** anbragt på  en  kryvvede strand er *** ingen tegn på civil      station overhovedet
+               I   I       S   S   S   S          S  S           S      D              S         S             D                   I            S            
+
+=== dk13x592-11082000-1516_u0579141-1 (15 word errors)
+sentence 1
+REF: jeg udnævner          hvert         år   årets værste reklame selv om det i grunden er ** ******* uretfærdigt          at fremhæve nogle uddannelser    frem for andre
+HYP: jeg udnævner hverdagsordets væsentlige klæmmer selvom ******* **** ** det i grunden er et færdigt          af fremhævning       af nogle  uddannelse fremfor *** andre
+                               S          S       S      S       D    D  D                   I       I           S           S        S                 S       S   D      
+
+=== dk14xx68-24072000-1018_u0073019-1 (15 word errors)
+sentence 1
+REF: ******** computere telefoner **   og faxmaskiner    samt tv apparater cd spillere og videobåndoptagere               er synlige udtryk for den elektroniske informationsindustri men disse apparater udgør ****** kun    toppen af isbjerget
+HYP: komputer        og telefoner er faks       måske narsamt tv erbereder cd ******** og           spilere videobandampater synlige udtryk for den elektroniske informationsindustri som disse apparater udgør kontop med ispireret af *********
+            I         S            I    S           S       S            S           D                    S                S                                                            S                            I   S         S            D
+
+=== dk14xx68-24072000-1018_u0073029-1 (15 word errors)
+sentence 1
+REF: for anpartsselskaberne      steg kravet              fra tredive tusind til             firs tusind kroner             mens aktieselskaberne måtte  udvide kapitalen fra et hundrede tusind til         tre hundrede tusind kroner
+HYP: for    anpaselskaberne stkræddet    for tredtykthundrede ******* ****** til firetykthundrede kroner    med accesselskaberne              var   der udvidet kapitalen fra et hundrede tusind til trehundrede ******** tusind kroner
+                          S         S      S                S       D      D                    S      S      S                S                S     S       S                                                S        D              
+
+=== dk14xx68-24072000-1018_u0073174-1 (15 word errors)
+sentence 1
+REF: folks   brug         af computere     er    steget voldsomt det sidste år og i løbet af      få   år         vil befolkningen under     halvtreds        være fortrolige med  computere
+HYP:  folk sporer computerer         i stedet forelsomt ******** det sidste år og i løbet af foråret blev fordelingen ************ under hundredeviser fortrudelig ********** med computerer
+         S      S          S         S      S         S        D                                   S    S           S            D                   S           S          D              S
+
+=== dk13x195-08082000-1050_u0205102-1 (14 word errors)
+sentence 1
+REF: af det ********** procedurehysteri som blev beskrevet ovenfor  må det bedste  råd til disse   tusindvis   af ejere hvor vanvittigt       det    end lyder lyde sådan
+HYP: er det procedurer         historie som blev beskrevet ovenfor mod det bedste rute til disse tusindviser eier ***** hvor vandvillet dannelsen løvede sonen **** *****
+      S              I                S                              S               S                     S    S     D               S         S      S     S    D     D
+
+=== dk14xx68-24072000-1018_u0073090-1 (14 word errors)
+sentence 1
+REF: byens zoologiske have har en ******* specialudstilling med       de    insekter sommerfugle edderkopper og myrer      man ellers skal til de tropiske regnskove for at møde
+HYP:  byen solovskaya  hav har en special        udstilling med dijenter sommerfulde  æderkopper *********** og myjer manetter ****** skal til de tropiske rejskoder for ** møde
+         S          S    S              I                 S            S           S           S           D        S        S      D                              S      D     
+
+=== dk12xx83-03082000-1347_u0098032-1 (13 word errors)
+sentence 1
+REF: og der var udbredt ******** skuffelse over at vestorienteringen ikke førte til vestlig økonomisk støtte og investeringer i        det    omfang   mange havde troet
+HYP: ** *** var udbredt skovløse   overalt vest og           indtæng ikke fører til vestlig økonomisk støtte og investeringer i omfattende mangefelt troværd ***** *****
+      D   D                    I         S    S  S                 S          S                                                          S         S       S     D     D
+

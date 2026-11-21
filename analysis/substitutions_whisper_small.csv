@@ -1,0 +1,21 @@
+ref,hyp,count,type
+de,det,12,other
+af,er,11,other
+er,af,10,other
+at,af,10,other
+en,et,9,other
+er,har,9,other
+der,da,9,other
+for,fra,8,other
+fra,for,8,other
+er,at,7,other
+et,ethundrede,7,other
+og,at,7,other
+den,en,7,other
+selv,selvom,7,"inflection (same stem, different ending)"
+byggede,bygget,6,"inflection (same stem, different ending)"
+kørte,det,6,other
+såsom,som,6,other
+computere,computer,6,"inflection (same stem, different ending)"
+beskadiget,beskadet,5,"inflection (same stem, different ending)"
+sylte,sylde,5,other

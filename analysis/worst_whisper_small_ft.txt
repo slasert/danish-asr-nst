@@ -1,0 +1,60 @@
+=== dk12xx83-03082000-1347_u0098156-1 (18 word errors)
+sentence 1
+REF: i           fornemt selskab med nuværende og tidligere verdensmestre er de to talentfulde sejlere  indstillet på at kæmpe sig til ** **** *** ***** *** ** ***** *** *** ** **** olympisk deltagelse næste år
+HYP: i fornemmelskelskab ******* med nuværende og   tidlige   værnsmæster er de to talentfulde  sejler indstillere på at kæmpe sig til at tage til længe til at kæmpe sig til at løbe       et deltagelse næste år
+                       S       D                          S             S                            S           S                      I    I   I     I   I  I     I   I   I  I    I        S                    
+
+=== dk14xx68-24072000-1018_u0073018-1 (18 word errors)
+sentence 1
+REF: jeg er ** ** **** overbevist   om  at der ikke er nogen læger i denne branche *** ****** **  som  foretager behandlinger de ********* *** ikke kan stå     inde for siger han
+HYP: jeg er op af hvor         vi står med der ikke er nogle læger i   den branche der prøver at tage behandling           af de kastøjere der ikke kan stå indenfor *** siger han
+             I  I    I          S    S   S                 S             S           I      I  I    S          S            S            I   I                     S   D          
+
+=== dk12xx83-03082000-1347_u0098019-1 (12 word errors)
+sentence 1
+REF: det nye     ved projektet er at    vi nu kan studere ***** ********* samspillet mellem gener og  miljøpåvirkninger i ordets bredeste forstand
+HYP: den nye projekt       der er at vinue ** kan studere samme spændende        med     en gener og miljøpravirkninger i  årets bøgerede forstand
+       S           S         S           S  D                 I         I          S      S                           S        S        S         
+
+=== dk12xx83-03082000-1347_u0098028-1 (12 word errors)
+sentence 1
+REF: boligerne      er opført som hyggelige træhuse mange med alle moderne bekvemmeligheder når der lige ** *******    ses bort     fra toiletforholdene
+HYP:   polerne opfører    sig  om hyggeligt træhuse mange med alle moderne   bekvæmligheder når der lige er sæbsæst spurgt  for tøjligt     forhållemænd
+             S       S      S   S         S                                               S               I       I      S    S       S                S
+
+=== dk13x195-08082000-1050_u0205099-1 (12 word errors)
+sentence 1
+REF: ** ***** afhængigt af hvilken uddannelse man primært er optaget på kan **  tillægsuddannelsen enten indgå som en            del af uddannelsen eller          reelt ligge udover
+HYP: og hænge       der  i hvilken uddannelse man primært er optaget på kan en tillæggsuddannelsen enten indgå som en deluddannelsen ** *********** eller reeltæggeudord ***** ******
+      I     I         S  S                                                   I                   S                                 S  D           D                    S     D      D
+
+=== dk13x195-08082000-1050_u0205137-1 (12 word errors)
+sentence 1
+REF: lige bortset fra de tre parasoller      af palmeblade som     er anbragt på  den kridhvide strand er her ingen tegn på   civilisation overhovedet
+HYP: lige  bortil fra de tre        par solgere palmeblæde som anbræk      på en krid     hvide strand er der ingen sejn på civilisationen overhovedet
+                S                     S       S          S          S       S  S    S         S             S          S                 S            
+
+=== dk14xx68-24072000-1018_u0073019-1 (12 word errors)
+sentence 1
+REF: computere telefoner og  faxmaskiner samt tv apparater cd   spillere og  videobåndoptagere        er synlige udtryk for den elektroniske informationsindustri men disse apparater udgør **   kun toppen  af isbjerget **
+HYP:  computer telefoner og fagsmaskiner samt tv apparater cd afspillede og videobåndomtagerer syngelige ******* udtryk for den elektroniske informationsindustri som disse apparater udgør at kunne    top med isbjerget af
+             S                         S                               S                     S         S       D                                                    S                        I     S      S   S            I
+
+=== dk12xx83-03082000-1347_u0098032-1 (11 word errors)
+sentence 1
+REF: og der var udbredt skuffelse over **      at vestorienteringen ikke førte til   vestlig økonomisk støtte og investeringer  i det omfang mange havde troet
+HYP: ** der var udbredt    skålet over et vestøjt       orientering ikke   før til væsentlig økonomisk støtte og   investering af det omfagt mange havde  tråd
+      D                         S       I       S                 S          S             S                                 S  S          S                 S
+
+=== dk12xx83-03082000-1347_u0098036-1 (11 word errors)
+sentence 1
+REF: man kan køre på cykel mens det i virkeligheden er baggrunden der   roterer eller  kravle op ad en mur som ligger plant på gulvet
+HYP: man kan køre på cykel mens  de * virkeligheden af baggrundet  er gravteret eller kravlet op af en mor som ligger  plan på guldet
+                                  S D                S          S   S         S             S     S      S                S         S
+
+=== dk12xx83-03082000-1347_u0098158-1 (11 word errors)
+sentence 1
+REF: ***** *********** *** * ****** årskontingentet varierer mellem et hundrede og tredive kroner og tre hundrede kroner ** afhængigt af hvilken partiforening man er medlem af
+HYP: avers kontigentet var i hjemme     almindeligt   ændret    med et hundrede og tredive kroner og tre hundrede kroner af      hæng af hvilken partiforæning man er medlem af
+         I           I   I I      I               S        S      S                                                       I         S                        S                 
+

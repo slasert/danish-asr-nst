@@ -1,0 +1,60 @@
+=== dk14xx68-24072000-1018_u0073019-1 (29 word errors)
+sentence 1
+REF: ******** *** ***** computere   telefoner  og faxmaskiner  samt tv apparater   cd spillere      og videobåndoptagere er        synlige udtryk for     den elektroniske informationsindustri                men disse apparater  udgør     kun toppen     af isbjerget
+HYP: omptutre til forde         r faktsumsine sam         tel væeve er        et sike        o spilere       vitibrnortl ar syvenlieudtrit    len   e troiske           en                  for marsusindtusreisen  dise   pbereje udgøre komtrpt     ma ispere         e
+            I   I     I         S           S   S           S     S  S         S    S        S       S                 S  S              S      S   S       S            S                    S                  S     S         S      S       S      S      S         S
+
+=== dk12xx83-03082000-1347_u0098010-1 (27 word errors)
+sentence 1
+REF: dan havde lavet            en flot tegning   af en sol     og    en måne med hat og tre øjne som  blev       hængt  op      i skolen så alle kunne se den
+HYP: der erhad leven fortangingens  sul      om none me har ogtrei ogene **** *** *** ** *** **** som bling opbiskunens ade kuseen ****** ** **** ***** ** ***
+       S     S     S             S    S       S    S  S   S      S     S    D   D   D  D   D    D         S           S   S      S      D  D    D     D  D   D
+
+=== dk13x592-11082000-1516_u0579010-1 (25 word errors)
+sentence 1
+REF:    dan havde      lavet en   flot tegning af en sol og en måne med   hat        og tre øjne som blev hængt         op  i        skolen så alle kunne se den
+HYP: danhae læble foptegnige  n soldor       e ** ** *** ** ** måne med hadre treerenge *** **** som   le   hnd opbiskunen so allekoniteten ** **** ***** ** ***
+          S     S          S  S      S       S  D  D   D  D  D              S         S   D    D        S     S          S  S             S  D    D     D  D   D
+
+=== dk14xx68-24072000-1018_u0073010-1 (25 word errors)
+sentence 1
+REF: dan havde lavet         en flot tegning af     en sol og en måne med hat  og  tre øjne som blev hængt      op   i skolen     så alle kunne se den
+HYP: dan    ar leden fratagning   an   soler  e målene *** ** ** **** *** hat der tree  one som   be vindo beskule der     li kucekn **** ***** ** ***
+             S     S          S    S       S  S      S   D  D  D    D   D       S    S    S        S     S       S   S      S      S    D     D  D   D
+
+=== dk12xx83-03082000-1347_u0098196-1 (24 word errors)
+sentence 1
+REF: jeg  må erkende     at jeg ikke har  noget dybtgående forhold til den     unge        kunst som         er blevet skabt her i de sidste ti år
+HYP: jam mar       e ktenge   r  kke nod degone        for  hultil  et  og redkutst sombleskaper  ei stetieoren ****** ***** *** * ** ****** ** **
+       S   S       S      S   S    S   S      S          S       S   S   S        S            S   S          S      D     D   D D  D      D  D  D
+
+=== dk13x195-08082000-1050_u0205010-1 (24 word errors)
+sentence 1
+REF: dan havde lavet en      flot tegning af en    sol og en   måne   med      hat   og tre øjne som blev hængt        op  i skolen        så alle kunne se den
+HYP: dan heder  lave  e flortanig ******* ** en tsoler ** en nuneme havde ortregie ring *** **** som blil  hand opbeskune tl   atde komtekten **** ***** ** ***
+             S     S  S         S       D  D         S  D         S     S        S    S   D    D        S     S         S  S      S         S    D     D  D   D
+
+=== dk13x592-11082000-1516_u0579109-1 (24 word errors)
+sentence 1
+REF:   hvad sagde jeg  står    der at læse i hans ansigt og min partner  og jeg    må indrømme     at   selv den største landkrabbe må bøje sig
+HYP: asareg    ej  ef store læssie en **** * **** ansigt om men   parbe jer mer ndrem        e tellan størså lan   krabe   mudbøese ** **** ***
+          S     S   S     S      S  S    D D    D         S   S       S   S   S     S        S      S      S   S       S          S  D    D   D
+
+=== dk14x591-11082000-1248_u0578036-1 (24 word errors)
+sentence 1
+REF: tjenerne  taler stort  set udelukkende fransk og      man   sidder albue ved albue i det       lille lokale hvor franske    tv  programmer kører konstant på skærmen         i hjørnet
+HYP:  tenerne taller  stor segt    udedomne  frens og manseder albputet albrå *** ***** i  de ligtelukale     og   fr   enska tavie brograemmer  køre komstant  p skarmen ikerernet *******
+            S      S     S    S           S      S           S        S     S   D     D     S           S      S    S       S     S           S     S        S  S       S         S       D
+
+=== dk14x591-11082000-1248_u0578222-1 (24 word errors)
+sentence 1
+REF: ***** stormvejret blæser    ind over museet på      et tidspunkt hvor det netop har modtaget  et hundrede   femten    millioner kroner til ** en     museumsø og et maritimt oplevelsescenter
+HYP: store         ver     et lagser  end      o  r musaget      påre tids  på   hor det   letter par   modtag etundere fenmmiioener  rorer til el ne musegeomsløg og et megentin aplævvelsesenter
+         I           S      S      S    S      S  S       S         S    S   S     S   S        S   S        S        S            S      S      I  S            S              S                S
+
+=== dk14xx68-24072000-1018_u0073018-1 (24 word errors)
+sentence 1
+REF: jeg  er overbevist om           at der ikke er     nogen læger   i denne branche som foretager behandlinger         de ikke kan stå inde for siger han
+HYP: jer ove     vistar  e ergkinogemve  et  det ne brnselseu  fdor tat    be haniger  di         e      kastren frsigerean **** *** *** **** *** ***** ***
+       S   S          S  S            S   S    S  S         S     S   S     S       S   S         S            S          S    D   D   D    D   D     D   D
+

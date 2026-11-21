@@ -1,0 +1,60 @@
+=== dk12xx83-03082000-1347_u0098010-1 (27 word errors)
+sentence 1
+REF:         dan havde  lavet           en    flot tegning af en sol og en måne med hat og tre øjne som blev hængt        op      i skolen så alle kunne se den
+HYP: datmedleven   før tanken ensonundemed retione ******* ** ** *** ** ** **** *** *** ** *** **** som ling   par biskonens altand ****** ** **** ***** ** ***
+               S     S      S            S       S       D  D  D   D  D  D    D   D   D  D   D    D        S     S         S      S      D  D    D     D  D   D
+
+=== dk14xx68-24072000-1018_u0073010-1 (26 word errors)
+sentence 1
+REF: dan  havde lavet en flot tegning                 af     en    sol     og       en måne med hat og    tre øjne som blev hængt op i skolen så alle kunne se den
+HYP: der nallen ***** ** flot   tagen inansolonmolimeter trenes opleve hender beskoles **** *** *** og ligger  sen *** **** ***** ** * ****** ** **** ***** ** ***
+       S      S     D  D            S                  S      S      S      S        S    D   D   D         S    S   D    D     D  D D      D  D    D     D  D   D
+
+=== dk14xx68-24072000-1018_u0073019-1 (26 word errors)
+sentence 1
+REF:   computere telefoner  og    faxmaskiner            samt      tv apparater                      cd   spillere og      videobåndoptagere er synlige udtryk          for den elektroniske informationsindustri men disse apparater udgør kun toppen af isbjerget
+HYP: komputerede       til for derefaktionske nesamtekabrater sikares    biller videponateresynetriften eltroliske en formatiosikersondisere på  rettet udgøre kontapmaskir *** ************ ******************** *** ***** ********* ***** *** ****** ** *********
+               S         S   S              S               S       S         S                       S          S  S                      S  S       S      S            S   D            D                    D   D     D         D     D   D      D  D         D
+
+=== dk13x195-08082000-1050_u0205021-1 (25 word errors)
+sentence 1
+REF: blandt        de elever der ønsker en ********** *** **** erhvervsuddannelse         på teknisk skole eller handelsskole er der *** derimod       under tredive procent der **** ** fastholder dette uddannelsesønske gennem    niende       klasse
+HYP: blandt digelover ****** der ønsker en alværesøge der hans                 et partikkens    gode  hele  hans           og at der der    imod undertrøvet     for    sand der fast må        det   det             godt    den sidsønske deminiklasse
+                    S      D                        I   I    I                  S          S       S     S     S            S  S       I       S           S       S       S        I  I          S     S                S      S         S            S
+
+=== dk12xx83-03082000-1347_u0098114-1 (22 word errors)
+sentence 1
+REF: når den kvindelige tenniselite                i       dag tager                    hul på   de sidste baghåndsflugtninger i de åbne franske mesterskaber er det ikke            kun et stort sportsshow
+HYP:  jo *** kvindelige   tingslige idaterhuposistet bagvirdig    og befredskampesterskabet at ikke ****** ******************* * ** **** ******* ************ ** *** ikke netotsportstyr ** ***** **********
+       S   D                      S                S         S     S                      S  S    S      D                   D D  D    D       D            D  D   D                   S  D     D          D
+
+=== dk13x195-08082000-1050_u0205034-1 (22 word errors)
+sentence 1
+REF:            modsat    kan  du  sidde   i              et støjinferno   i     en lufthavn        og læse koncentreret i en bog og lukke de omgivende lyde ude
+HYP: musekaluselstoren færnog ind lofter med læsekoncentrede      indbog har løkket      det omgiverne dyde ************ * ** *** ** ***** ** ********* **** ***
+                     S      S   S      S   S               S           S   S      S        S         S    S            D D  D   D  D     D  D         D    D   D
+
+=== dk14x591-11082000-1248_u0578010-1 (22 word errors)
+sentence 1
+REF:         dan havde lavet en    flot tegning af en sol og       en måne      med hat og tre øjne som blev hængt op          i skolen så alle kunne    se den
+HYP: danhallavet ***** ***** en flotten    anso ** ** *** og imonemer  han retringe *** ** *** **** som blev  hent af iskodenser ****** ** alle kunne seten ***
+               S     D     D          S       S  D  D   D           S    S        S   D  D   D    D              S  S          S      D  D                S   D
+
+=== dk14xx68-24072000-1018_u0073009-1 (22 word errors)
+sentence 1
+REF: han   løb    ud                        i   det    lille køkken for at sige tak for kaffe til pers kone men hun var ikke til at se
+HYP: han løbet livet kønfortitafokartenskeres kolle navnrigt  tilsæ *** ** **** *** *** ***** *** **** **** *** *** *** **** *** ** **
+             S     S                        S     S        S      S   D  D    D   D   D     D   D    D    D   D   D   D    D   D  D  D
+
+=== dk14xx68-24072000-1018_u0073025-1 (22 word errors)
+sentence 1
+REF: det indtryk     man får  sagde han    er at    den amerikanske regering hverken har viljen  eller evnen til       at standse  en potentiel trussel mod nationens velfærd
+HYP: det      en trækker for saghen  er denne må kasker       gerin     hver     den har  visen eneræn ***** til standsen      på til       set trussen  må     lases  velfør
+               S       S   S      S   S     S  S      S           S        S       S          S      S     D            S       S   S         S       S   S         S       S
+
+=== dk14xx68-24072000-1018_u0073174-1 (22 word errors)
+sentence 1
+REF:           folks brug   af computere er steget voldsomt det sidste år      og        i løbet af få              år vil befolkningen under halvtreds være fortrolige med computere
+HYP: polotkompiteres  det vold       som de ****** ******** *** sidste år lykkede forbøbet   for at ny underhandlredes ved    fortoline   han      pjil **** ********** *** *********
+                   S    S    S         S  S      D        D   D                 S        S     S  S  S               S   S            S     S         S    D          D   D         D
+
