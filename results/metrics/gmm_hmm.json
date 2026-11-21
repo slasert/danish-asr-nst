@@ -750,7 +750,7 @@
     },
     "audio_seconds": 5685.072,
     "rtfx": 2493.45,
-    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+    "commit": "2d63bfc4574fdafa9d276097eea1ba9937587efd"
   },
   "test": {
     "system": "gmm_hmm",
@@ -1503,6 +1503,6 @@
     },
     "audio_seconds": 5962.6,
     "rtfx": 724.5,
-    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+    "commit": "2d63bfc4574fdafa9d276097eea1ba9937587efd"
   }
 }

@@ -70,7 +70,7 @@
     },
     "audio_seconds": 5685.072,
     "rtfx": 6.31,
-    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+    "commit": "2d63bfc4574fdafa9d276097eea1ba9937587efd"
   },
   "test": {
     "system": "e2e_hybrid",
@@ -143,6 +143,6 @@
     },
     "audio_seconds": 5962.6,
     "rtfx": 6.37,
-    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+    "commit": "2d63bfc4574fdafa9d276097eea1ba9937587efd"
   }
 }

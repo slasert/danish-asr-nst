@@ -45,7 +45,7 @@
     },
     "audio_seconds": 5685.072,
     "rtfx": 155.5,
-    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+    "commit": "2d63bfc4574fdafa9d276097eea1ba9937587efd"
   },
   "test": {
     "system": "wav2vec2_roest_315m_da",
@@ -93,6 +93,6 @@
     },
     "audio_seconds": 5962.6,
     "rtfx": 118.85,
-    "commit": "4f101fe8e6ef1dadc969158012eb261a2bbb0c2f"
+    "commit": "2d63bfc4574fdafa9d276097eea1ba9937587efd"
   }
 }
